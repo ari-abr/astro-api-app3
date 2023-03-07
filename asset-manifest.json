@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/astro-api-app3/static/css/main.fd1a22e4.css",
+    "main.js": "/astro-api-app3/static/js/main.f8bc3ee2.js",
+    "static/js/787.2007b2cd.chunk.js": "/astro-api-app3/static/js/787.2007b2cd.chunk.js",
+    "index.html": "/astro-api-app3/index.html",
+    "main.fd1a22e4.css.map": "/astro-api-app3/static/css/main.fd1a22e4.css.map",
+    "main.f8bc3ee2.js.map": "/astro-api-app3/static/js/main.f8bc3ee2.js.map",
+    "787.2007b2cd.chunk.js.map": "/astro-api-app3/static/js/787.2007b2cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd1a22e4.css",
+    "static/js/main.f8bc3ee2.js"
+  ]
+}
