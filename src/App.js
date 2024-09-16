@@ -18,7 +18,10 @@ class App extends Component {
     this.setState({ results: null }, () =>
       console.log('null results :( ' + this.state.results)
     );
-    await fetch(url)
+    await fetch(url, 
+                {
+                  headers: ("X-Master-Key", "$2a$10$8sPJQR5nL1rpjoycr1e8PuYLW12ysyUmqCjpTeDry.PJLY1eeG1yS")
+                })
       .then((response) => {
         return response.json();
       })
@@ -222,13 +225,13 @@ class App extends Component {
                   cols="50"
                   rows="2"
                   readOnly
-                  value="https://astro-app-api.herokuapp.com/planets"
+                  value="https://api.jsonbin.io/v3/b/66e78077acd3cb34a8852374"
                   id="link2"
                 ></textarea>
                 <button
                   onClick={() =>
                     this.getResults(
-                      `https://astro-app-api.herokuapp.com/planets`
+                      `https://api.jsonbin.io/v3/b/66e78077acd3cb34a8852374`
                     )
                   }
                 >
