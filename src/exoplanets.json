@@ -1,0 +1,93 @@
+[
+        {
+          "Name": "Proxima Centauri b",
+          "Type": "Planet, Exoplanet, Super Earth",
+          "Host Star": "Proxima Centauri",
+          "Mass (Earth Mass M⊕)": 1.39,
+          "Radius (Earth Radius R⊕)": 1.185,
+          "Temperature (K)": 234,
+          "Semi-major Axis (AU)": 0.0485,
+          "Eccentricity": 0.124,
+          "Orbital Period (days)": 11.18427,
+          "Distance Away (light years)": 4.2,
+          "Constellation": "Centaurus"
+        },
+        {
+          "Name": "Proxima Centauri c",
+          "Type": "Planet, Exoplanet",
+          "Host Star": "Proxima Centauri",
+          "Mass (Earth Mass M⊕)": 7,
+          "Radius (Earth Radius R⊕)": 1,
+          "Temperature (K)": 39,
+          "Semi-major Axis (AU)": 1.489,
+          "Eccentricity": 0.04,
+          "Orbital Period (days)": 1928,
+          "Distance Away (light years)": 4.2,
+          "Constellation": "Centaurus"
+        },
+        {
+          "Name": "Barnard's Star b, GJ 699 b",
+          "Type": "Planet, Exoplanet",
+          "Host Star": "Barnard's Star",
+          "Mass (Earth Mass M⊕)": 3.23,
+          "Radius (Earth Radius R⊕)": 1.365,
+          "Temperature (K)": 105,
+          "Semi-major Axis (AU)": 0.404,
+          "Eccentricity": 0.32,
+          "Orbital Period (days)": 232.8,
+          "Distance Away (light years)": 6,
+          "Constellation": "Ophiuchus"
+        },
+        {
+          "Name": "51 Pegasi b, 51 Peg b, Dimidium",
+          "Type": "Planet, Exoplanet",
+          "Host Star": "51 Pegasi",
+          "Mass (Earth Mass M⊕)": 146.237,
+          "Radius (Earth Radius R⊕)": 21.29698233,
+          "Temperature (K)": 1284,
+          "Semi-major Axis (AU)": 0.0527,
+          "Eccentricity": 0.013,
+          "Orbital Period (days)": 4.230785,
+          "Distance Away (light years)": 50,
+          "Constellation": "Pegasus"
+        },
+        {
+          "Name": "Kepler-186f",
+          "Type": "Planet, Exoplanet",
+          "Host Star": "Kepler-186",
+          "Mass (Earth Mass M⊕)": 1.4,
+          "Radius (Earth Radius R⊕)": 1.7,
+          "Temperature (K)": 188,
+          "Semi-major Axis (AU)": 0.432,
+          "Eccentricity": 0.04,
+          "Orbital Period (days)": 129.9444,
+          "Distance Away (light years)": 500,
+          "Constellation": "Cygnus"
+        },
+        {
+          "Name": "55 Cancri e, Janssen",
+          "Type": "Planet, Exoplanet, Super Earth",
+          "Host Star": "Copernicus, 55 Cancri System",
+          "Mass (Earth Mass M⊕)": 8.08,
+          "Radius (Earth Radius R⊕)": 1.9,
+          "Temperature (K)": 2973.15,
+          "Semi-major Axis (AU)": 0.01544,
+          "Eccentricity": 0.03,
+          "Orbital Period (days)": 0.7,
+          "Distance Away (light years)": 41,
+          "Constellation": "Cancer"
+        },
+        {
+          "Name": "Gliese 581c, Gl 581c, GJ 581c",
+          "Type": "Planet, Exoplanet, Super Earth",
+          "Host Star": "Gliese 581",
+          "Mass (Earth Mass M⊕)": 5.5,
+          "Radius (Earth Radius R⊕)": 1.5,
+          "Temperature (K)": 313.15,
+          "Semi-major Axis (AU)": 0.0721,
+          "Eccentricity": 0,
+          "Orbital Period (days)": 12.914,
+          "Distance Away (light years)": 20.37,
+          "Constellation": "Libra"
+        }
+]
